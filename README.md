@@ -27,7 +27,7 @@ Fun little boilerplate Discord Bot for your personal use. Utilizes OpenAI's Davi
 
 **6.)** Set the custom URL to: https://discord.com/oauth2/authorize?scope=bot&permissions=8&client_id=YOUR_CLIENT_ID (CLIENT_ID is found under Client Information on the same page)
 
-** 7.)** Copy and paste the custom URL in your search bar. This will open a discord page that will allow you to add the bot to your server.
+**7.)** Copy and paste the custom URL in your search bar. This will open a discord page that will allow you to add the bot to your server.
 
 
 # To Launch the Bot:

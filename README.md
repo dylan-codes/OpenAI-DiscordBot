@@ -6,6 +6,7 @@ Fun little boilerplate Discord Bot for your personal use. Utilizes OpenAI's Davi
 # To create the discord bot you will have to do two things first:
 
 Open AI Setup:
+
 1.) Go to https://openai.com/api/ and get your OpenAI account set up.
 
 2.) Once set up, go to https://beta.openai.com/account/api-keys and create your API key. Place this in your own .env file under the name OPENAI_KEY (ex: OPENAI_KEY=xxxxxxxxxxxxxxxx)
@@ -13,6 +14,7 @@ Open AI Setup:
 3.) Next, go to https://beta.openai.com/account/org-settings and copy your Organization ID. Place this in your .env file as OPEN_ORG
 
 Discord Setup:
+
 1.) Head to https://discord.com/developers/applications and create a new application.
 
 2.) Once created, go into the Bot window (selected on the left) and add a bot.

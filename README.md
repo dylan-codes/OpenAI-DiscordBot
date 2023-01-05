@@ -30,7 +30,9 @@ Discord Setup:
 7.) Copy and paste the custom URL in your search bar. This will open a discord page that will allow you to add the bot to your server.
 
 
-Finally, type "node ./index.js" in the OpenAI-DiscordBot folder and you will get a message when the bot comes online.
+# To Launch the Bot:
+
+Type "node ./index.js" in the OpenAI-DiscordBot folder and you will get a message when the bot comes online.
 
 
 

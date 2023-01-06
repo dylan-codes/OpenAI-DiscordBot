@@ -34,5 +34,6 @@ Fun little boilerplate Discord Bot for your personal use. Utilizes OpenAI's Davi
 
 Type "node ./index.js" in the OpenAI-DiscordBot folder and you will get a message when the bot comes online.
 
+**Note:** Node version ^16.9.0 is required for DiscordJS to run correctly.
 
 
